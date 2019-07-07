@@ -1,0 +1,2 @@
+# mydemo
+a javascript project
